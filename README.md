@@ -1,2 +1,2 @@
 # cricbuzz
-A cricket score app
+A cricket score app backend
